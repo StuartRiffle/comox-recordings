@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://stuartriffle.github.io/comox-recordings/</loc>
     <lastmod>2017-11-29T17:35:08-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://stuartriffle.github.io/comox-recordings/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://stuartriffle.github.io/comox-recordings/tags/</loc>
     <priority>0</priority>
   </url>
   

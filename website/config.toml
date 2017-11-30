@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://stuartriffle.github.io/comox-recordings/"
 languageCode = "en-us"
 title = "Comox Recordings - LING 431"
 theme = "minimo"

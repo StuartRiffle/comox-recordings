@@ -1,4 +1,5 @@
-baseURL = "https://stuartriffle.github.io/comox-recordings/"
+baseURL = ""
 languageCode = "en-us"
 title = "Comox Recordings - LING 431"
 theme = "minimo"
+relativeurls = true
